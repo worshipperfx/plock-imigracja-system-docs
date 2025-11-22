@@ -1,4 +1,4 @@
-# PLOCK IMIGRACJA — Full System Documentation
+# PLOCK IMIGRACJA : Full System Documentation
 
 This documentation covers the **architecture, design, logic, purpose, and technical structure** of the Plock Imigracja mobile application.  
 It includes both **backend and frontend** explanations, screenshots placeholders, diagrams, problems solved, and system flows.
@@ -151,10 +151,6 @@ According to  migration statistics:
 
 
 ![Home Screen](docs/images/Homepage.png)
-
-![Knowledge Base](docs/images/Knowledge Base.png)
-
-![Help & Support](docs/images/Help & Support.png)
 
 ![AI Chatbot](docs/images/AI2.png)
 
