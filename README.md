@@ -183,7 +183,7 @@ The project uses a **service-oriented architecture (SOA)** with separation of co
 
 # Architecture Diagram
 
-![System Architecture Diagram](system_architecture.png)
+![System Architecture Diagram](docs/images/system_architecture.png)
 
 
 # Frontend (Flutter) Documentation
