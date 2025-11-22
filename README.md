@@ -152,13 +152,13 @@ According to  migration statistics:
 
 ![Home Screen](docs/images/Homepage.png)
 
-![Knowledge Base](docs/images/knowledge_base.png)
+![Knowledge Base](docs/images/Knowledge Base.png)
 
-![Help & Support](docs/images/help_support.png)
+![Help & Support](docs/images/Help & Support.png)
 
-![AI Chatbot](docs/images/ai_chat.png)
+![AI Chatbot](docs/images/AI2.png)
 
-![Survey Screen](docs/images/survey.png)
+![Survey Screen](docs/images/Survey.png)
 
 
 ---
