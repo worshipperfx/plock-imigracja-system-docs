@@ -149,13 +149,17 @@ According to  migration statistics:
 # Application Screenshots
 
 
-```
+
 ![Home Screen](docs/images/Homepage.png)
+
 ![Knowledge Base](docs/images/knowledge_base.png)
+
 ![Help & Support](docs/images/help_support.png)
+
 ![AI Chatbot](docs/images/ai_chat.png)
+
 ![Survey Screen](docs/images/survey.png)
-```
+
 
 ---
 
