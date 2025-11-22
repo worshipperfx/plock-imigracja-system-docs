@@ -183,7 +183,7 @@ The project uses a **service-oriented architecture (SOA)** with separation of co
 
 # Architecture Diagram
 
-![System Architecture Diagram](system architecture.png)
+![System Architecture Diagram](system_architecture.png)
 
 
 # Frontend (Flutter) Documentation
@@ -395,7 +395,7 @@ POST /survey
 
 - Input validation prevents malformed requests  
 
----
+
 
 # Future Improvements
 - Full deployment to Google Cloud Run  
@@ -412,28 +412,14 @@ POST /survey
 
 - Integrate Push Notifications  
 
----
+
 
 # Appendix: Resources & Images
 
-Place all images inside:
+- All images are inside
+```
+ docs/images
 
 ```
-docs/images/
-```
-
-Diagrams inside:
-
-```
-docs/diagrams/
-```
-
-Example embed:
-
-```
-![AI Flow Diagram](docs/diagrams/ai_flow.png)
-```
-
----
 
 # END OF DOCUMENTATION
